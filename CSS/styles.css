@@ -263,8 +263,14 @@ align-items:center;
 .banner-paragraph{
    font-size:3.5rem;
    font-weight:300;
-   
-}
 
+}
+.banner-button{
+    width:21rem;
+    padding:1.2rem 2rem;
+    font-size:2rem ;
+    color:#333;
+    
+}
 /* end of header */
 
