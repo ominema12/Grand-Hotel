@@ -299,3 +299,16 @@ align-items:center;
 }
 /* end of header */
 
+/* about us */
+
+.about-us{
+    margin-left:8rem;
+    display:flex;
+    background-color: #ddd;
+}
+
+.about-us-content{
+    flex:0 1 50%
+}
+
+/* end of about us */
